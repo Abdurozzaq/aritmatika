@@ -1,0 +1,20 @@
+{
+    "name": "abdurozzaq/aritmatika",
+    "description": "library operasi aritmatika",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abdurozzaq\\Aritmatika\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rozzaq",
+            "email": "abdurozzaq.nurul@mail.sirclo.com"
+        }
+    ]
+}
